@@ -1,0 +1,47 @@
+.certificationTitle {
+  font-size: 2.25rem;
+  margin-left: 5rem;
+  margin-right: 2.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  font-weight: 700;
+  font-family: "Playfair Display", sans-serif;
+  color: #33272a;
+}
+
+/* * .certifictsright {
+  position: relative;
+  background-color: #fffffe;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  border-radius: 0.375rem;
+  box-sizing: border-box;
+  display: block;
+  float: right;
+} */
+.certificts {
+  width: 50%;
+  display: inline-block;
+  background-color: #fffffe;
+  position: relative;
+  margin-top: 2rem;
+  margin-left: 20%;
+  padding: 30px;
+  /*margin-right: 10rem;
+  */
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  box-sizing: border-box;
+  /*float: left;
+  */
+  color: #33272a;
+  border-radius: 8px;
+}
+p {
+  font-size: 1rem;
+  font-weight: 500;
+}

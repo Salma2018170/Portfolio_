@@ -1,0 +1,39 @@
+/* projects style */
+h1 {
+  margin-bottom: 1rem;
+  font-weight: 500;
+  /* margin-right: 56rem; */
+  margin: 70px;
+  /* text-decoration: none; */
+  font-size: 4rem;
+  margin-bottom: 0;
+  color: #33272a;
+}
+.project1 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: block;
+  border: 1px #33272a solid;
+  border-left: 10px solid #33272a;
+  border-radius: 8px;
+  margin-left: 6rem;
+  margin-right: 11.8rem;
+}
+.title1 {
+  font-size: 1.5rem;
+
+  color: #181515;
+}
+.descripation1 {
+  color: #594a4e;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.3rem;
+}
+h3 {
+  padding-left: 1.5rem;
+  /* font-family: "Playfair Display", serif; */
+  font-weight: 700;
+}
